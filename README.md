@@ -1,5 +1,5 @@
 # Props Basics
-
+Isaac Mutiga
 ## Learning Goals
 
 - Use props to make reusable component templates
